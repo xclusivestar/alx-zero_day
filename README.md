@@ -1,1 +1,1 @@
-my First readme
+ALX is fucking hard 
